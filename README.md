@@ -13,11 +13,11 @@ Uexevents rather than a library, is a daemon that parse and writes udev events i
 
 ## Features / TO-DO
 
-[x] FIFO Device for universal access
-[x] Parse udev events to a more reliable format
-[ ] Get Status for keys like Caps/Num lock
-[ ] Get key case for letters
-[ ] Control to stop/start the daemon without root (useful for security when writing passwords)
+- [x] FIFO Device for universal access
+- [x] Parse udev events to a more reliable format
+- [ ] Get Status for keys like Caps/Num lock
+- [ ] Get key case for letters
+- [ ] Control to stop/start the daemon without root (useful for security when writing passwords)
 
 ### Installation
 
